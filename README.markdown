@@ -8,7 +8,7 @@ This repo consists of sample projects used to highlight problems which hopefully
 - [x] Mixed ObjC/Swift framework questions
 - [x] ImageContext Crashes for some image size
 - [ ] GameplayKit GKRTree
-- [ ] Notes AttributedString drag drop
+- [x] Notes AttributedString drag drop
 - [ ] Open UIDocumentBrowserViewController Radars (https://openradar.appspot.com/search?query=uidocumentbrowserviewcontroller)
 - [ ] VoiceOver: The Focus sometimes randomly switches to other elements, how can we prevent this?
 - [ ] Performance Problems with Zooming + Mac Zooming Performance Problems related to Graphics Card
