@@ -6,7 +6,7 @@ This repo consists of sample projects used to highlight problems which hopefully
 
 - [x] Text Bounding Rect Measuring (NSLayoutManager vs. CTFrameSetter differences)
 - [x] Mixed ObjC/Swift framework questions
-- [ ] ImageContext Crashes for some image size
+- [x] ImageContext Crashes for some image size
 - [ ] GameplayKit GKRTree
 - [ ] Notes AttributedString drag drop
 - [ ] Open UIDocumentBrowserViewController Radars (https://openradar.appspot.com/search?query=uidocumentbrowserviewcontroller)
